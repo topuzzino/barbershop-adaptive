@@ -1,1 +1,1 @@
-Learning project for creating an adaprive web page
+Learning project for creating an adaptive web page
